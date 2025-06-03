@@ -4,7 +4,7 @@
 I'm a Computer Science student at the University of Massachusetts Boston, expected to graduate in May 2025. My passion for technology started at a young age, and I'm particularly drawn to software development, machine learning, and AI. I’m committed to using my skills to develop impactful solutions that make a difference in the world.
 
 ### What I Do 🛠️
-- **Languages**: C, C++, Python 🐍 (Pandas, NumPy, SciPy, Scikit-learn), Java ☕, JavaScript, CSS, HTML, SQL, React
+- **Languages**: C, C++, Python 🐍 (Pandas, NumPy, SciPy, Scikit-learn), Java ☕, JavaScript, CSS, HTML, SQL, React <br>
 - **Backend Development**: Flask, Django, Spring, RESTful, Node.js
 - **AI/ML**: TensorFlow, PyTorch, Hugging Face, NLP, OpenCV, Matplotlib, Seaborn
 - **Cloud & DevOps**: AWS, Docker 🐳, Git, CI/CD 🐙 (GitHub Actions)
