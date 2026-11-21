@@ -1,45 +1,101 @@
-## Hi there, I'm Keta Patel 👋🚨
+<p align="center">
+  <a href="https://github.com/Keta2208"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:FBD3E2,50:F4B6CF,100:E88AA6&height=230&section=header&text=Keta%20Patel&fontSize=76&fontColor=4A1523&fontAlignY=38&animation=fadeIn&desc=I%20drink%20tokens.%20I%20build%20with%20AI.&descSize=22&descColor=4A1523&descAlignY=60" width="100%" alt="Keta Patel. I drink tokens. I build with AI." /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=24&duration=2600&pause=1200&color=B3202A&center=true&vCenter=true&width=760&height=48&lines=curious+about+AI+and+how+things+work.;MS+Business+Analytics+%40+UIC;turning+messy+data+into+useful+tools.;always+tinkering+with+something+new." width="100%" alt="Typing lines" />
+</p>
 
-I'm a **💻 Computer Science major**.  
-I’ve loved coding since I was young, and technology has always been my passion ⚡️.  
-I enjoy crafting beautiful and functional **frontend interfaces** 🎨 as well as tackling challenging **machine learning** problems 🤖.  
-My core interests include **software development**, **machine learning**, and **AI** 🚀.  
-I’m driven to use my skills to create impactful solutions that truly make a difference 🌍✨.
+<p align="center">
+  <a href="https://www.linkedin.com/in/keta2002/"><img src="https://img.shields.io/badge/LinkedIn-B3202A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://keta2208.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-F4B6CF?style=for-the-badge&labelColor=F4B6CF&color=F4B6CF&logoColor=4A1523&logo=safari" alt="Portfolio" /></a>
+  <a href="mailto:ketapatel444@gmail.com"><img src="https://img.shields.io/badge/Email-2B2326?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Keta2208&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Keta2208&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Keta2208&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## ✨ about me
 
----
-[![](https://visitcount.itsvg.in/api?id=Keta2208&icon=0&color=0)](https://visitcount.itsvg.in)
+```python
+me = {
+    "does":     "build tools that turn messy data into something people can use",
+    "based":    "Chicago, IL",
+    "studying": "MS Business Analytics, UIC (2027)",
+    "before":   "BS Computer Science, UMass Boston",
+    "into":     ["AI tools", "LLMs and agents", "automation", "any new tech worth poking at"],
+    "now":      "automation and building useful things with LLMs",
+}
+```
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💼 experience
 
-### Projects 📚
-**Prepared AI (Machine Learning)**
-A Home Safety Advisor tool that leverages NLP and geographic risk data to offer personalized emergency preparedness recommendations. Fine-tuned open-source LLMs like GPT-3 and Llama to ensure accuracy in safety guidance.
+<table>
+  <tr>
+    <td width="36%" valign="top"><b>Data Analyst Intern</b><br /><sub>Amplifon USA · Jun to Aug 2026</sub></td>
+    <td valign="top">Found a 29% inventory mismatch across 3 enterprise systems and built an AI-assisted agent that cut a 10-step referral workflow to 3 steps.</td>
+  </tr>
+  <tr>
+    <td width="36%" valign="top"><b>Business Analyst Intern</b><br /><sub>Malelo &amp; Company · Jan to May 2026</sub></td>
+    <td valign="top">Compared pricing for 2K+ products against 10+ competitors and built Power BI reports for sales and marketing planning.</td>
+  </tr>
+  <tr>
+    <td width="36%" valign="top"><b>Machine Learning Intern</b><br /><sub>Prepared AI · Aug to Dec 2024</sub></td>
+    <td valign="top">Built an LLM chatbot for disaster preparedness guidance and the evaluation framework used to measure its reliability.</td>
+  </tr>
+</table>
 
-**Precise Endoscopic Examination Kit (PEEK) (Frontend)**
-Developed the frontend for PEEK, an AI-powered platform that streamlines non-invasive colorectal cancer screening, ensuring a user-friendly interface and seamless data flow between healthcare providers and the system.
+## 🚀 projects
 
-**Create Access: Improving UI/UX for 3D Learning**
-Revamped the UI of Create Access to enhance navigation and user engagement for first-time learners of 3D technology. Conducted iterative usability testing to optimize the platform’s educational impact.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛒 Agentic AI for Retail Decisions</h3>
+      <sub><b>Walmart-sponsored capstone</b></sub>
+      <p>A team project that turns demand forecasts and retrieved evidence into inventory suggestions a manager can review. I built the forecasting and the RAG part.</p>
+      <p><code>Python</code> <code>LightGBM</code> <code>RAG</code> <code>Streamlit</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>✈️ <a href="https://github.com/Keta2208/southwest-airline-analysis">Southwest Airline Analysis</a></h3>
+      <sub><b>BTS 2024 flight data · Tableau</b></sub>
+      <p>Cleaned and combined a year of on-time performance data to compare Southwest's delays, cancellations and hubs with other carriers.</p>
+      <p><code>Python</code> <code>pandas</code> <code>Tableau</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💬 Advanced Text Analytics</h3>
+      <sub><b>NLP · class project</b></sub>
+      <p>Trigram autocomplete and word-sense disambiguation. Naive Bayes reached 0.866 accuracy on 3,916 test sentences.</p>
+      <p><code>Python</code> <code>spaCy</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📂 <a href="https://keta2208.github.io/Portfolio/">More Work</a></h3>
+      <sub><b>everything else</b></sub>
+      <p>The retail data warehouse, the machine learning pipeline and more are on my portfolio.</p>
+    </td>
+  </tr>
+</table>
 
-### I’m currently learning 🌱
-**Machine Learning**: Sharpening my skills in machine learning, exploring advanced techniques like deep learning and neural networks for more impactful applications.
+## 🧰 tools I use
 
-**AI & Business Intelligence**: Delving into AI concepts and business intelligence to harness data-driven insights for decision-making and innovation.
+<table>
+  <tr>
+    <td width="22%" valign="middle"><b>Languages</b></td>
+    <td><img src="https://img.shields.io/badge/Python-B3202A?style=for-the-badge" alt="Python" /> <img src="https://img.shields.io/badge/R-B3202A?style=for-the-badge" alt="R" /> <img src="https://img.shields.io/badge/Java-B3202A?style=for-the-badge" alt="Java" /> <img src="https://img.shields.io/badge/JavaScript-B3202A?style=for-the-badge" alt="JavaScript" /> <img src="https://img.shields.io/badge/HTML-B3202A?style=for-the-badge" alt="HTML" /> <img src="https://img.shields.io/badge/CSS-B3202A?style=for-the-badge" alt="CSS" /></td>
+  </tr>
+  <tr>
+    <td width="22%" valign="middle"><b>Data and machine learning</b></td>
+    <td><img src="https://img.shields.io/badge/pandas-C2456B?style=for-the-badge" alt="pandas" /> <img src="https://img.shields.io/badge/NumPy-C2456B?style=for-the-badge" alt="NumPy" /> <img src="https://img.shields.io/badge/scikit--learn-C2456B?style=for-the-badge" alt="scikit-learn" /> <img src="https://img.shields.io/badge/LightGBM-C2456B?style=for-the-badge" alt="LightGBM" /> <img src="https://img.shields.io/badge/Tableau-C2456B?style=for-the-badge" alt="Tableau" /> <img src="https://img.shields.io/badge/Power%20BI-C2456B?style=for-the-badge" alt="Power BI" /></td>
+  </tr>
+  <tr>
+    <td width="22%" valign="middle"><b>Web and cloud</b></td>
+    <td><img src="https://img.shields.io/badge/React-B3202A?style=for-the-badge" alt="React" /> <img src="https://img.shields.io/badge/Flask-B3202A?style=for-the-badge" alt="Flask" /> <img src="https://img.shields.io/badge/Docker-B3202A?style=for-the-badge" alt="Docker" /> <img src="https://img.shields.io/badge/AWS-B3202A?style=for-the-badge" alt="AWS" /> <img src="https://img.shields.io/badge/Azure-B3202A?style=for-the-badge" alt="Azure" /> <img src="https://img.shields.io/badge/MySQL-B3202A?style=for-the-badge" alt="MySQL" /></td>
+  </tr>
+  <tr>
+    <td width="22%" valign="middle"><b>Everyday tools</b></td>
+    <td><img src="https://img.shields.io/badge/Git-2B2326?style=for-the-badge" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-2B2326?style=for-the-badge" alt="GitHub" /> <img src="https://img.shields.io/badge/VS%20Code-2B2326?style=for-the-badge" alt="VS Code" /> <img src="https://img.shields.io/badge/Streamlit-2B2326?style=for-the-badge" alt="Streamlit" /></td>
+  </tr>
+</table>
 
-**Data Science**: Exploring data science methodologies to analyze and visualize data, applying these techniques to real-world problems.
+<p align="center"><b>Got an AI idea or a geeky side project? Let's talk.</b></p>
 
+<p align="center">
+  <a href="mailto:ketapatel444@gmail.com"><img src="https://img.shields.io/badge/say_hi-B3202A?style=for-the-badge" alt="Email me" /></a>
+</p>
 
-### Let's Connect 🤝
-- **Email**: k.patel010@umb.edu 📧  
-- **LinkedIn**: [Keta Patel](https://www.linkedin.com/in/keta2002)  
-- **GitHub**: [Keta2208](https://github.com/Keta2208)
-
-Feel free to explore my projects, connect with me, or collaborate on exciting new opportunities in tech! 💬
-
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:E88AA6,50:F4B6CF,100:FBD3E2&height=120&section=footer&text=thanks%20for%20stopping%20by&fontSize=26&fontColor=4A1523&fontAlignY=65" width="100%" alt="Thanks for stopping by" /></p>
